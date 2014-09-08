@@ -11,3 +11,4 @@ It contains work from the course and other things that I find useful.
 * [Using R in Sublime Text 3](http://www.kevjohnson.org/using-r-in-sublime-text-3/)
 * [Sublime Text markdown preview](https://github.com/revolunet/sublimetext-markdown-preview) - with git markdown conversion
 * [Code School's Git tutorial](https://try.github.io)
+* [GitHub Guide - Hello World](https://guides.github.com/activities/hello-world/)
