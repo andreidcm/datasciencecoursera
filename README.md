@@ -14,6 +14,7 @@ It contains work from the course and other things that I found useful.
 ### Markdown
 * [Markdown creator - John Gruber](http://daringfireball.net)
 * [Sublime Text markdown preview](https://github.com/revolunet/sublimetext-markdown-preview) - with git markdown conversion
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
 
 ### Git
 * [Git Home](http://git-scm.com)
