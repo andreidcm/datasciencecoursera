@@ -9,6 +9,7 @@
 *.Rproj
 .Rproj.user
 .Rdata
+.RData
 .Rhistory
 
 submitscript1.R
