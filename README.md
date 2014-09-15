@@ -1,6 +1,6 @@
 Data Science Specialization
 ===================
-This repository is for the [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience) at Coursera.
+This repository is for the [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) at Coursera.
 
 It contains work from the specialization courses and other things that I found useful.
 
