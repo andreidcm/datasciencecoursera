@@ -51,11 +51,11 @@ if (!exists("wattageDataSource")) {
 # Using the same custom date coercer.
 #
 wattageSubset <- wattageDataSource %>%
-  mutate(DateTime = paste(Date, Time)) %>%
   filter(
     Date >= as.Date(START_DATE, format = DATE_FORMAT),
     Date <= as.Date(END_DATE, format = DATE_FORMAT)
   ) %>%
+  mutate(DateTime = paste(Date, Time)) %>%
   select(-Date, -Time)
 
 wattageSubset$DateTime <- strptime(wattageSubset$DateTime, DATE_TIME_FORMAT)
